@@ -1,11 +1,3 @@
-
-def hello():
-    """
-    In return, Hello!.
-
-    """
-    return "Hello!"
-
 def hello(name):
     """
     In return, Hello, name!.
@@ -19,13 +11,6 @@ def hello_world():
 
     """
     return "Hello, World!"
-
-def hi():
-    """
-    In return, Hi!.
-
-    """
-    return "Hi!"
 
 def hi(name):
     """
