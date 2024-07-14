@@ -2,7 +2,8 @@ from hello import (
     hello,
     hello_world,
     hi,
-    hi_world
+    hi_world,
+    version
 )
 
 def say_hello(name):
@@ -17,6 +18,9 @@ def say_hi(name):
 def say_hi_world():
     return hi_world()
 
+def say_version():
+    return version()
+
 if __name__ == "__main__":
     name = "Eazy Cloud Life"
 
@@ -24,3 +28,4 @@ if __name__ == "__main__":
     print(say_hello_world())
     print(say_hi(name))
     print(say_hi_world())
+    print(say_version())

@@ -25,3 +25,10 @@ def hi_world():
 
     """
     return "Hi, World!"
+
+def version():
+    """
+    In return, version number.
+
+    """
+    return "2.0.0"
