@@ -23,6 +23,7 @@ def test_hi_world():
 
 if __name__ == "__main__":
     name = "Eazy Cloud Life"
+    
     test_hello(name)
     test_hello_world()
     test_hi(name)

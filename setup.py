@@ -18,7 +18,7 @@ setup(
     url='https://github.com/eazycloudlife/ezcl-py-hello',
     license="MIT",
     classifiers=[
-        'Programming Language :: Python :: 3.12.4',
+        'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
